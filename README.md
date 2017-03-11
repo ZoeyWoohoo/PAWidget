@@ -1,6 +1,7 @@
 # PAWidget
 Android widget showing your personalized photo album.
 
+> The widget is still in development!
 
 ### License
 
